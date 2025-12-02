@@ -17,7 +17,9 @@ Depois disso:
 
 3 - Exiba no console uma mensagem mostrando os dados do livro cadastrado.
 
-Quando terminar, volte aqui e compare com a solução desse repositorio! 
+Quando terminar, volte aqui e compare com a solução desse repositorio: 
+[Livro.cs](https://github.com/mleilane/Estrudos-Csharp-Desafios/blob/main/CadastroDeLivrosBiblioteca/Livro.cs)
+[Program.cs](https://github.com/mleilane/Estrudos-Csharp-Desafios/blob/main/CadastroDeLivrosBiblioteca/Program.cs)
 
 ## 🎯 O que você pratica neste desafio?
 
