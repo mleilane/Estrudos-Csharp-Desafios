@@ -1,30 +1,26 @@
-# Desafio 01 — Cadastro de Livros em C#
+# 💻 Bora encarar uns desafios de C#?
 
-Bem-vindo(a) ao Desafio 01!
-A ideia aqui é praticar os primeiros passos da Programação Orientada a Objetos (POO) com C#.
+Se você caiu aqui, provavelmente tá estudando C#, quer praticar ou só tá curioso mesmo.
+De qualquer forma… SEJA BEM-VINDO(A)! 😄
 
-🚀 O desafio: 
+Aqui você vai encontrar desafios curtinhos e simples, perfeitos pra quem está começando na programação ou quer reforçar o básico de forma leve.
 
-Crie uma classe chamada Livro contendo dois atributos:
-* Titulo
-* Autor
+# 🎯 Como funciona?
 
-Depois disso:
+* Entre na pasta do desafio
 
-1 - Crie um objeto da classe Livro.
+* Leia a proposta
 
-2 - Atribua valores aos atributos.
+* Tente fazer no seu computador
 
-3 - Exiba no console uma mensagem mostrando os dados do livro cadastrado.
+* Volte e compare com a solução disponível
 
-Quando terminar, volte aqui e compare com a solução desse repositorio! 
+* Sem pressão. Sem cobrança. Só prática e evolução. 🚀
 
-## 🎯 O que você pratica neste desafio?
+# ☕ Por que fiz isso?
 
-* Criar classes
+Porque estou revisando a base e reforçando meus estudos, e pensei:
+“Por que não transformar essa revisão em algo útil pra mais gente?”
 
-* Definir atributos
-
-* Criar objetos (instâncias)
-
-* Exibir informações no console
+Se você também está iniciando ou quer treinar o básico, esse espaço é pra nós 🤜🏽🤛🏽.
+A ideia é evoluir juntos, praticando e comparando soluções de forma leve e divertida. 💛🚀
