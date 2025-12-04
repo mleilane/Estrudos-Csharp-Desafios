@@ -27,8 +27,8 @@ A ideia é evoluir juntos, praticando e comparando soluções de forma leve e di
 
 ## 📚 Desafios disponíveis
 
-1. [Desafio 01 — Cadastro de Livros]([./Desafio01](https://github.com/mleilane/Estrudos-Csharp-Desafios/tree/main/CadastroDeLivrosBiblioteca))
-2. [Desafio 02 — Emissão de Passagem]([./Desafio02](https://github.com/mleilane/Estrudos-Csharp-Desafios/tree/main/EmissaoPassagemViagem/EmissaoDePassagem))
-3. [Desafio 03 — Conta Bancária]([./Desafio03](https://github.com/mleilane/Estrudos-Csharp-Desafios/tree/main/ContaBancaria/ContaBancaria))
-4. [Desafio 04 — Gerenciamento de Funcionários]([./Desafio04](https://github.com/mleilane/Estrudos-Csharp-Desafios/tree/main/GerenciamentoDeFuncionarios))
-5. [Desafio 05 — Cáldulo da área do retângulo]([./Desafio05](https://github.com/mleilane/Estrudos-Csharp-Desafios/tree/main/RepresentandoRetanguloECalculoDaArea))
+1. [Desafio 01 — Cadastro de Livros](./CadastroDeLivrosBiblioteca)
+2. [Desafio 02 — Emissão de Passagem](./EmissaoPassagemViagem/EmissaoDePassagem)
+3. [Desafio 03 — Conta Bancária](./ContaBancaria/ContaBancaria)
+4. [Desafio 04 — Gerenciamento de Funcionários](./GerenciamentoDeFuncionarios)
+5. [Desafio 05 — Cálculo da área do retângulo](./RepresentandoRetanguloECalculoDaArea)
