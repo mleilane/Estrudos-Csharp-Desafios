@@ -1,6 +1,6 @@
 # Desafio 05 — Cálculo da Área do Retângulo (C#)
 
-Bem-vindo(a) ao Desafio 05! Aqui você vai continuar evoluindo na Programação Orientada a Objetos (POO) em C#, usando propriedades e métodos para criar comportamentos em uma classe.
+Bem-vindo(a) ao Desafio 05! Aqui você vai continuar evoluindo na Programação Orientada a Objetos (POO) em C#, usando atribudos e métodos para criar comportamentos em uma classe.
 
 🚀 O desafio:
 
