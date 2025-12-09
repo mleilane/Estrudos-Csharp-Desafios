@@ -32,3 +32,5 @@ A ideia é evoluir juntos, praticando e comparando soluções de forma leve e di
 3. [Desafio 03 — Conta Bancária](./ContaBancaria/ContaBancaria)
 4. [Desafio 04 — Gerenciamento de Funcionários](./GerenciamentoDeFuncionarios)
 5. [Desafio 05 — Cálculo da área do retângulo](./RepresentandoRetanguloECalculoDaArea)
+6. [Desafio 06 — Validação de acesso a filmes](./ValidacaoAcessoAFilmes)
+
