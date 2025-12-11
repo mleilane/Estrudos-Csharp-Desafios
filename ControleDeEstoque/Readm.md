@@ -32,7 +32,12 @@ Crie uma classe chamada Produto, contendo dois atributos:
 
 * Exiba no console as mensagens retornadas pelo método.
 
-* Utilize o método ExibirEstoque() para mostrar o estoque atualizado. <br> 
+* Utilize o método ExibirEstoque() para mostrar o estoque atualizado. <br>
+
+Quando terminar, volte aqui e compare com a solução deste repositório:
+
+[Produto.cs](https://github.com/mleilane/Estrudos-Csharp-Desafios/blob/main/ControleDeEstoque/Produto.cs)  <br> 
+[Program.cs](https://github.com/mleilane/Estrudos-Csharp-Desafios/blob/main/ControleDeEstoque/Program.cs)
 
 ### 🧩 O que você pratica neste desafio?
 
