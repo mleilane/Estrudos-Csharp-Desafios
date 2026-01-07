@@ -34,4 +34,5 @@ A ideia é evoluir juntos, praticando e comparando soluções de forma leve e di
 5. [Desafio 05 — Cálculo da área do retângulo](./RepresentandoRetanguloECalculoDaArea)
 6. [Desafio 06 — Validação de acesso a filmes](./ValidacaoAcessoAFilmes)
 7. [Desafio 07 — Controle de Estoque](./ControleDeEstoque)
+8. [Desafio 08 — Sistema de Pedidos](./SistemaDePedidosLojaVirtual).
 
